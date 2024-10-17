@@ -1,4 +1,4 @@
-# Collection of 50 Android Rats, the best and most efficient programs for android penetration testing.
+# Collection of 40 Android Rats, the best and most efficient programs for android penetration testing.
 
 
 # Pack 1
