@@ -5,8 +5,8 @@
 * 888 Rat V 1.2.4
 * Brata Rat
 * Chinese Rat
-* Chinese Rat V2
-* Chinese Rat XMR85
+* G700 v. 6.4
+* Vampire Rat
 * Cobra Rat
 
 # Pack 2
